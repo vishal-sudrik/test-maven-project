@@ -5,7 +5,7 @@ public class TestNGClassEx4 {
 
     @Test
     public void test1() {
-        System.out.println("In testng method");
+        System.out.println("In testng class ex 4 method");
     }
 
 
